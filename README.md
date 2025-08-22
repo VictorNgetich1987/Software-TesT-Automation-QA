@@ -1,4 +1,5 @@
 # Software-TesT-Automation-QA
+
 Reflections
 Why do I know my software, program, or code is operating and secure?
 
