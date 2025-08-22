@@ -1,6 +1,5 @@
 # Software-TesT-Automation-QA
-
-Reflections
+# Reflections
 Why do I know my software, program, or code is operating and secure?
 
 I enable functionality by writing unit tests that validate the expected behavior under different conditions, including edge cases. It is critical to test early and frequently because it guarantees defects are detected and reported before they become much more difficult to fix. I also monitor secure coding practices such as input validation, exception handling, and use of distinct identifiers for data integrity. Security is part of my design and not an add-on.
